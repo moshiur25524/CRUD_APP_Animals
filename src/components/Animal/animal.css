@@ -1,0 +1,8 @@
+.animal {
+  border: 2px solid orangered;
+  border-radius: 5px;
+}
+
+.animal img {
+  width: 100%;
+}
